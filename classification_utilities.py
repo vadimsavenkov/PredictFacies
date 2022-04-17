@@ -1,7 +1,6 @@
 from __future__ import print_function
 import numpy as np
 
-
 def display_cm(cm, labels, hide_zeros=False,
                              display_metrics=False):
     """Display confusion matrix with labels, along with
